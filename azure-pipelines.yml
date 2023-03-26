@@ -2,13 +2,16 @@
 # Build and push an image to Azure Container Registry
 # https://docs.microsoft.com/azure/devops/pipelines/languages/docker
 
+pool:  
+  name: local
+
 trigger:
 - master
 
 resources:
 - repo: self
 
-pool: local
+
 
 variables:
   # Container registry service connection established during pipeline creation
