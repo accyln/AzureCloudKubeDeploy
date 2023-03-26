@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPAnDPOJSbNGGEvmljaoKwqENkAfk6wg0sVi6JFekljxw14xxwelbCqIoP8fpKgrw90MIiuZIhzZMvlZ4IWUpg==",
+  "dgSpecHash": "VRUJshFao/x9korD4DjbVd/wweYKUdCLccacklBKM7lBuZmyHCpYfwxdug6lC/t+iX/zPDmmCdqLB1ExmIyJAw==",
   "success": true,
-  "projectFilePath": "C:\\Acc\\AzureCloudDeployExamples\\AzureDockerSample\\Shopping.Client\\Shopping.Client.csproj",
+  "projectFilePath": "C:\\Acc\\workspace\\Git\\AzureCloudKubeDeploy\\AzureDockerSample\\Shopping.Client\\Shopping.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"

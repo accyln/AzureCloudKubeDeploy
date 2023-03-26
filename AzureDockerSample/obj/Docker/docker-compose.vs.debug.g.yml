@@ -13,8 +13,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages
     volumes:
-      - C:\Acc\AzureCloudDeployExamples\AzureDockerSample\Shopping.Api:/app
-      - C:\Acc\AzureCloudDeployExamples\AzureDockerSample:/src
+      - C:\Acc\workspace\Git\AzureCloudKubeDeploy\AzureDockerSample\Shopping.Api:/app
+      - C:\Acc\workspace\Git\AzureCloudKubeDeploy\AzureDockerSample:/src
       - C:\Users\ahmet\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\ahmet\.nuget\packages\:/root/.nuget/packages:ro
       - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
@@ -41,8 +41,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages
     volumes:
-      - C:\Acc\AzureCloudDeployExamples\AzureDockerSample\Shopping.Client:/app
-      - C:\Acc\AzureCloudDeployExamples\AzureDockerSample:/src
+      - C:\Acc\workspace\Git\AzureCloudKubeDeploy\AzureDockerSample\Shopping.Client:/app
+      - C:\Acc\workspace\Git\AzureCloudKubeDeploy\AzureDockerSample:/src
       - C:\Users\ahmet\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\ahmet\.nuget\packages\:/root/.nuget/packages:ro
       - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro

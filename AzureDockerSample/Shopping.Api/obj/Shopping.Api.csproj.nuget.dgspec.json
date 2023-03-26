@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Acc\\AzureCloudDeployExamples\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj": {}
+    "C:\\Acc\\workspace\\Git\\AzureCloudKubeDeploy\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj": {}
   },
   "projects": {
-    "C:\\Acc\\AzureCloudDeployExamples\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj": {
+    "C:\\Acc\\workspace\\Git\\AzureCloudKubeDeploy\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Acc\\AzureCloudDeployExamples\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj",
+        "projectUniqueName": "C:\\Acc\\workspace\\Git\\AzureCloudKubeDeploy\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj",
         "projectName": "Shopping.Api",
-        "projectPath": "C:\\Acc\\AzureCloudDeployExamples\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj",
+        "projectPath": "C:\\Acc\\workspace\\Git\\AzureCloudKubeDeploy\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj",
         "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Acc\\AzureCloudDeployExamples\\AzureDockerSample\\Shopping.Api\\obj\\",
+        "outputPath": "C:\\Acc\\workspace\\Git\\AzureCloudKubeDeploy\\AzureDockerSample\\Shopping.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

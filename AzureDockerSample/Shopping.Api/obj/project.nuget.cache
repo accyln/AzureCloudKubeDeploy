@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKOKVmxLJrOH/4NDVfY1/nJCiC4r63aeBo3JeVmaF5LNbkMFfY/iIJ8T6CY2dWp9MqfQjejJOn+dVsTUfudENA==",
+  "dgSpecHash": "DqK2b3Q0Gf/rPAKiN7UbnEEP+Zc9L8zMsfiWBiM+OerL4oFFy0GL1IPEwbwBWlMtgqGP/1oEeT488oFl8/Tl0g==",
   "success": true,
-  "projectFilePath": "C:\\Acc\\AzureCloudDeployExamples\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj",
+  "projectFilePath": "C:\\Acc\\workspace\\Git\\AzureCloudKubeDeploy\\AzureDockerSample\\Shopping.Api\\Shopping.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
